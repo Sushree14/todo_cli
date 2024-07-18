@@ -1,0 +1,26 @@
+{
+  "visiting": {
+    "tasks": [
+      {
+        "description": "bbsr",
+        "completed": false
+      }
+    ]
+  },
+  "shopping": {
+    "tasks": [
+      {
+        "description": "bread",
+        "completed": true
+      },
+      {
+        "description": "egg",
+        "completed": false
+      },
+      {
+        "description": "lays",
+        "completed": false
+      }
+    ]
+  }
+}
